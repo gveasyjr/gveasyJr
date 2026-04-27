@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gveasyJr
-- 👀 I’m interested in learning more about coding
-- 🌱 I’m currently learning python backend development
-- 💞️ I’m looking to collaborate on something that's fun to code
-- 📫 How to reach me send me a message
+- 👋 Hello and welcome, I'm Geoffrey Veasy
+- 👀 I’m interested in learning how software development can be easier. Mastering the tools and techniques that make high quality software without sacrificing time.
+- 🌱 I’m currently learning concepts in Server Administration and DevSecOps.
+- 💞️ I’m looking to work on anything with a highly collaborative environment. I like almost everything to do with IT, I wouldn't turn down any collaboration.
+- 📫 Send a message, I'd love to talk!
 
 <!---
 gveasyJr/gveasyJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
